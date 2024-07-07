@@ -1,0 +1,4 @@
+const VOICE_ENGINE = 'LOCAL'; // or 'ELEVENLABS'
+const ELEVENLABS_API_KEY = 'elevenlabsapikey'
+const ELEVENLABS_VOICE_ID = 'voiceid';
+const FIREBASE_URL = 'firebase endpoint';
